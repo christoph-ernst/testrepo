@@ -1,2 +1,7 @@
 AWS_ACCESS_KEY_ID=AKIA1234567890EXAMPLE
 AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
+adobe_pac_token
+
+aws_access_key_id
+aws_secret_access_key
